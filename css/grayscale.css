@@ -478,7 +478,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000;
+        background-color: #fff;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -703,8 +703,8 @@ footer p {
 
 ::selection {
     text-shadow: none;
-    background: #0c0c0c;
-    background: rgba(255,255,255,.2);
+    background: #eee;
+    background: rgba(255,255,255,.9);
 }
 
 img::selection {
